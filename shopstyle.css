@@ -1,0 +1,32 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.card{
+    width: 30%;
+    padding: 0 10px;
+}
+
+.myImage {
+    transition: src 0.3s ease; 
+    cursor: pointer;
+    width: 100%;
+}
+.text-shop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px ;
+
+}
+
+.limited-edition h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+
